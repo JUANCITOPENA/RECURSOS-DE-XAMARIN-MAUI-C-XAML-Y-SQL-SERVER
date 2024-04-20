@@ -43,9 +43,14 @@ Estamos emocionados de compartir contigo dos videos emocionantes en nuestro cana
 Encuéntrame en:
 
 1- 🎬 **Youtube:** [Canal de YouTube](https://www.youtube.com/@JuancitoPenaV)
+
 2- 👨‍💼 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/juancitope%C3%B1a/)
+
 3- 📰 **Blog:** [Sitio web del Blog](https://advisertecnology.com/)
+
 4- 📷 **Instagram:** [Perfil de Instagram](https://www.instagram.com/juancito.pena.v/)
+
 5- 📑 **Facebook:** [Perfil de Facebook](https://www.facebook.com/juancito.p.v)
+
 6- 🐦 **Twitter:** [Perfil de Twitter](https://twitter.com/JuancitoPenaV)
 
