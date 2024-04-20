@@ -38,11 +38,14 @@ Estamos emocionados de compartir contigo dos videos emocionantes en nuestro cana
 
 ¡Únete a nosotros en este emocionante viaje de aprendizaje y desarrollo!
 
-✔  No olvides suscribirte, compartir, darle like y dejar tus comentarios en la sección de abajo. ¡Tu apoyo es muy importante para mí  y me ayudas a seguir creando contenido. 💚
+✔ No olvides suscribirte, compartir, darle like y dejar tus comentarios en la sección de abajo. ¡Tu apoyo es muy importante para mí y me ayudas a seguir creando contenido. 💚
 
-1-🎬 Youtube: https://www.youtube.com/@JuancitoPenaV 
-2-👨‍💼 LinkedIn: https://www.linkedin.com/in/juancitope%C3%B1a/
-3-📰 Blog: https://advisertecnology.com/
-4-📷 Instagram: https://www.instagram.com/juancito.pena.v/
-5-📑 Facebook: https://www.facebook.com/juancito.p.v
-6-🐦 Twitter: https://twitter.com/JuancitoPenaV
+Encuéntrame en:
+
+1- 🎬 **Youtube:** [Canal de YouTube](https://www.youtube.com/@JuancitoPenaV)
+2- 👨‍💼 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/juancitope%C3%B1a/)
+3- 📰 **Blog:** [Sitio web del Blog](https://advisertecnology.com/)
+4- 📷 **Instagram:** [Perfil de Instagram](https://www.instagram.com/juancito.pena.v/)
+5- 📑 **Facebook:** [Perfil de Facebook](https://www.facebook.com/juancito.p.v)
+6- 🐦 **Twitter:** [Perfil de Twitter](https://twitter.com/JuancitoPenaV)
+
