@@ -31,7 +31,7 @@ Estamos emocionados de compartir contigo dos videos emocionantes en nuestro cana
 
 ¡No te pierdas ninguna parte de esta emocionante aventura! Puedes encontrar los enlaces a ambos videos más abajo.
 
-## Recursos Adicionales:
+## Recursos Adicionales: 📚
 
 - **Blog:** Para obtener más detalles sobre el proyecto y acceder al código fuente, visita nuestro blog en [https://advisertecnology.com/index.php/2024/04/17/desafio-de-desarrollo-movil-crea-una-aplicacion-para-calcular-calificaciones-con-xamarin-forms/].
 - **GitHub:** Descarga la documentacion en Diapositivaas con las Explicaciones correspondientes en Power Point, compartelas si gusta, pero recuerda darme el cridito.
