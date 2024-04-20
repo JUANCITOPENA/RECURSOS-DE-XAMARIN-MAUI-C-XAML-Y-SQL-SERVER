@@ -1,15 +1,4 @@
-# RECURSOS-DE-XAMARIN-MAUI-C-XAML-Y-SQL-SERVER
-RECURSOS DE XAMARIN, MAUI, C#, XAML Y SQL SERVER
-
-### PORTADA #1
-
-![](CALIFICACION1.png)
-
-### PORTADA #2
-
-![](CALIFICACION2.png)
-
-# Desarrollo de Aplicaciones Móviles con Xamarin.Forms y SQL Server
+# Descubriendo las Maravillas de Xamarin, MAUI, C#, XAML y SQL Server
 
 ¡Bienvenidos a esta emocionante aventura en el mundo del desarrollo de aplicaciones móviles!
 
@@ -40,15 +29,20 @@ Estamos emocionados de compartir contigo dos videos emocionantes en nuestro cana
 
 [![Miniatura del video](https://img.youtube.com/vi/uUC7ncDlagA/maxresdefault.jpg)](https://www.youtube.com/watch?v=uUC7ncDlagA)
 
-
-
 ¡No te pierdas ninguna parte de esta emocionante aventura! Puedes encontrar los enlaces a ambos videos más abajo.
 
 ## Recursos Adicionales:
 
 - **Blog:** Para obtener más detalles sobre el proyecto y acceder al código fuente, visita nuestro blog en [https://advisertecnology.com/index.php/2024/04/17/desafio-de-desarrollo-movil-crea-una-aplicacion-para-calcular-calificaciones-con-xamarin-forms/].
-- **GitHub:** Descarga todo el material del proyecto desde nuestro repositorio en GitHub [insertar enlace al repositorio].
-
-
+- **GitHub:** Descarga la documentacion en Diapositivaas con las Explicaciones correspondientes en Power Point, compartelas si gusta, pero recuerda darme el cridito.
 
 ¡Únete a nosotros en este emocionante viaje de aprendizaje y desarrollo!
+
+✔  No olvides suscribirte, compartir, darle like y dejar tus comentarios en la sección de abajo. ¡Tu apoyo es muy importante para mí  y me ayudas a seguir creando contenido. 💚
+
+1-🎬 Youtube: https://www.youtube.com/@JuancitoPenaV 
+2-👨‍💼 LinkedIn: https://www.linkedin.com/in/juancitope%C3%B1a/
+3-📰 Blog: https://advisertecnology.com/
+4-📷 Instagram: https://www.instagram.com/juancito.pena.v/
+5-📑 Facebook: https://www.facebook.com/juancito.p.v
+6-🐦 Twitter: https://twitter.com/JuancitoPenaV
