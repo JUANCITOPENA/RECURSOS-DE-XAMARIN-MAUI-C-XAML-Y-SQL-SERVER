@@ -1,10 +1,10 @@
-# Descubriendo las Maravillas de Xamarin, MAUI, C#, XAML y SQL Server
+# Descubriendo las Maravillas de Xamarin, MAUI, C#, XAML y SQL Server 💻
 
-¡Bienvenidos a esta emocionante aventura en el mundo del desarrollo de aplicaciones móviles!
+🚀 ¡Bienvenidos a esta emocionante aventura en el mundo del desarrollo de aplicaciones móviles!
 
 En este viaje, exploraremos el fascinante ecosistema de **Xamarin**, una plataforma de desarrollo de aplicaciones móviles que nos permite crear aplicaciones multiplataforma utilizando el lenguaje de programación **C#** y la tecnología **XAML** para diseñar interfaces de usuario intuitivas y atractivas.
 
-## Xamarin, C#, XAML y SQL Server: ¡Los Pilares de Nuestra Aventura!
+## Xamarin, C#, XAML y SQL Server: ¡Los Pilares de Nuestra Aventura! 💻
 
 En primer lugar, nos sumergiremos en el mundo de **Xamarin**, una poderosa herramienta que nos permite desarrollar aplicaciones nativas para iOS y Android compartiendo la mayor cantidad de código posible. Utilizaremos **C#**, un lenguaje de programación potente y versátil, junto con **XAML**, un lenguaje de marcado elegante y expresivo, para diseñar la interfaz de usuario de nuestra aplicación.
 
@@ -12,11 +12,11 @@ Pero eso no es todo. También aprovecharemos la potencia y la confiabilidad de *
 
 Y como herramienta principal de nuestro arsenal, utilizaremos **Visual Studio**, el entorno de desarrollo integrado (IDE) por excelencia para desarrolladores de aplicaciones móviles, que nos brinda todas las herramientas necesarias para construir, depurar y desplegar nuestras aplicaciones con facilidad.
 
-## El Proyecto: ¡Gestión de Calificaciones Universitarias!
+## El Proyecto: ¡Gestión de Calificaciones Universitarias! 🎓
 
 Nuestro desafío es crear una aplicación móvil utilizando **Xamarin.Forms** y **SQL Server** para calcular las calificaciones finales de los estudiantes. Esta aplicación permitirá a los usuarios ingresar las notas de asistencia, trabajo práctico, examen parcial y examen final, y calculará la nota final basada en estas entradas. Además, proporcionará la equivalencia en letra de la nota final según una escala predefinida.
 
-## ¡Dos Videos, Una Misión!
+## ¡Dos Videos, Una Misión! 🎥
 
 Estamos emocionados de compartir contigo dos videos emocionantes en nuestro canal de YouTube, donde te guiaremos a través de todo el proceso de desarrollo de esta aplicación:
 
