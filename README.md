@@ -32,13 +32,23 @@ Nuestro desafío es crear una aplicación móvil utilizando **Xamarin.Forms** y 
 Estamos emocionados de compartir contigo dos videos emocionantes en nuestro canal de YouTube, donde te guiaremos a través de todo el proceso de desarrollo de esta aplicación:
 
 1. **Parte 1:** En este video, te introduciremos al mundo de Xamarin.Forms y comenzaremos a construir la interfaz de usuario de nuestra aplicación.
+
+[![Video sobre Desarrollo de Aplicaciones Móviles](https://img.youtube.com/vi/TU_ID_DEL_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_ID_DEL_VIDEO)
+
+
 2. **Parte 2:** En esta segunda parte, exploraremos cómo integrar SQL Server en nuestra aplicación para almacenar y recuperar datos de manera eficiente.
+3. 
+[![Video sobre Desarrollo de Aplicaciones Móviles](https://img.youtube.com/vi/TU_ID_DEL_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_ID_DEL_VIDEO)
+
+
 
 ¡No te pierdas ninguna parte de esta emocionante aventura! Puedes encontrar los enlaces a ambos videos más abajo.
 
 ## Recursos Adicionales:
 
-- **Blog:** Para obtener más detalles sobre el proyecto y acceder al código fuente, visita nuestro blog en [insertar enlace al blog].
+- **Blog:** Para obtener más detalles sobre el proyecto y acceder al código fuente, visita nuestro blog en [https://advisertecnology.com/index.php/2024/04/17/desafio-de-desarrollo-movil-crea-una-aplicacion-para-calcular-calificaciones-con-xamarin-forms/].
 - **GitHub:** Descarga todo el material del proyecto desde nuestro repositorio en GitHub [insertar enlace al repositorio].
+
+
 
 ¡Únete a nosotros en este emocionante viaje de aprendizaje y desarrollo!
