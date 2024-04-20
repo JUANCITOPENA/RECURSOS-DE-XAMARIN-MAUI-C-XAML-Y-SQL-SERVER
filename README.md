@@ -31,14 +31,15 @@ Nuestro desafío es crear una aplicación móvil utilizando **Xamarin.Forms** y 
 
 Estamos emocionados de compartir contigo dos videos emocionantes en nuestro canal de YouTube, donde te guiaremos a través de todo el proceso de desarrollo de esta aplicación:
 
-1. **Parte 1:** En este video, te introduciremos al mundo de Xamarin.Forms y comenzaremos a construir la interfaz de usuario de nuestra aplicación.
+## 1. **Parte 1:** En este video, te introduciremos al mundo de Xamarin.Forms y comenzaremos a construir la interfaz de usuario de nuestra aplicación.
 
 [![Video sobre Desarrollo de Aplicaciones Móviles](https://img.youtube.com/vi/TU_ID_DEL_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_ID_DEL_VIDEO)
 
 
-2. **Parte 2:** En esta segunda parte, exploraremos cómo integrar SQL Server en nuestra aplicación para almacenar y recuperar datos de manera eficiente.
-3. 
+## 2. **Parte 2:** En esta segunda parte, exploraremos cómo integrar SQL Server en nuestra aplicación para almacenar y recuperar datos de manera eficiente.
+
 [![Video sobre Desarrollo de Aplicaciones Móviles](https://img.youtube.com/vi/TU_ID_DEL_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_ID_DEL_VIDEO)
+[![Miniatura del video](https://img.youtube.com/vi/uUC7ncDlagA/maxresdefault.jpg)](https://www.youtube.com/watch?v=uUC7ncDlagA)
 
 
 
